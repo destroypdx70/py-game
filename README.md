@@ -1,1 +1,2 @@
-# py-game
+# DOOM ETERNAL
+credits to StanislavPetrovV
